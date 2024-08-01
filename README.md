@@ -40,6 +40,7 @@ The application uses a local JSON file (`database.json`) for storing tasks. You 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or new features to add ^_^
 
+
 ## Acknowledgements
 - [Electron](https://www.electronjs.org/): Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 - [Node.js](https://nodejs.org/): JavaScript runtime built on Chrome's V8 JavaScript engine.
